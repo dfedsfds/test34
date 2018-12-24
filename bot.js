@@ -2666,7 +2666,7 @@ message.channel.sendMessage('تـم إنـشاء روم كـتابـي')
 
 
 client.on("message", (message) => {
-if (message.content === prefix + "cv")) {
+if (message.content === prefix + "cv") {
             if (!message.member.hasPermission('MANAGE_CHANNELS')) return message.reply("You Don't Have `MANAGE_CHANNELS` Premissions ");
         let args = message.content.split(" ").slice(1);
     message.guild.createChannel(args.join(' '), 'voice');
@@ -2699,7 +2699,7 @@ if(!message.channel.guild) return;
 
 
 			      client.on("message", (message) => {
-    if (message.content === prefix + "delet")) {
+    if (message.content === prefix + "delet") {
         if (!message.member.hasPermission('MANAGE_CHANNELS')) return message.reply("You Don't Have `MANAGE_CHANNELS` Premissions ");
 
         let args = message.content.split(' ').slice(1);

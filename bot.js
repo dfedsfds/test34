@@ -46,59 +46,57 @@ c
    :fire:  اوامر عامة :fire:  
 =====================================			
 	
-   ${prefix}allbots | لعرض جميع البوتات الي بالسيرفر :robot: 
+   『${prefix}allbots | لعرض جميع البوتات الي بالسيرفر :robot: 』
 
-   ${prefix}server |يعرض لك معلومات عن السيرفر:fire: 
+   『${prefix}server |يعرض لك معلومات عن السيرفر:fire: 』
 
-   ${prefix}bot | يعرض لك كل معلومات البوت:computer: 
+   『${prefix}bot | يعرض لك كل معلومات البوت:computer: 』
 
-   ${prefix}skin <name> | يعرض لك سكنك بماين كرافت:blush:
+   『${prefix}skin <name> | يعرض لك سكنك بماين كرافت:blush:』
 
-${prefix}count | يعرض لك عدد الاشخاص بالسيرفر بدون بوتات :information_source:
+   『${prefix}count | يعرض لك عدد الاشخاص بالسيرفر بدون بوتات :information_source:』
 
-   ${prefix}invites | يعرض لك  عدد انفايتاتك بالسيرفر  :microscope: 
+   『${prefix}invites | يعرض لك  عدد انفايتاتك بالسيرفر  :microscope:』 
 
-   ${prefix}invite-codes | يعرض لك روابط الانفايتات حكك في السيرفر :spy: 
+   『${prefix}invite-codes | يعرض لك روابط الانفايتات حكك في السيرفر :spy: 』
 
-   ${prefix}cal | اله حاسبة:slot_machine: 
+   『${prefix}cal | اله حاسبة:slot_machine: 』
 
-   ${prefix}trans <language> <any thing> | يترجم لك الي تبيه من اي لغة:writing_hand: 
+   『${prefix}trans <language> <any thing> | يترجم لك الي تبيه من اي لغة:writing_hand: 』
 
-${prefix}short | يختصر لك رابط كبير الى رابط صغير:mortar_board: 
+   『${prefix}short | يختصر لك رابط كبير الى رابط صغير:mortar_board: 』
 
-   ${prefix}tag | يكتب لك الكلمة بشكل جميل وكبير:sunglasses: 
+   『${prefix}tag | يكتب لك الكلمة بشكل جميل وكبير:sunglasses: 』
 
-   ${prefix}google | للبحث في قوقل عن طريق الدسكورد:desktop: 
+   『${prefix}google | للبحث في قوقل عن طريق الدسكورد:desktop: 』
 
-   ${prefix}perms | يعرض لك برمشناتك بالسيرفر:pushpin: 
+   『${prefix}perms | يعرض لك برمشناتك بالسيرفر:pushpin: 』
 
-   ${prefix}za5 | يزخرف لك كلمة او جملة:hearts: 
+   『${prefix}za5 | يزخرف لك كلمة او جملة:hearts: 』
 
-   ${prefix}rooms | يعرض لك كل الرومات الي بالسيرفر مع عددها:rocket: 
+   『${prefix}rooms | يعرض لك كل الرومات الي بالسيرفر مع عددها:rocket: 』
 
-   ${prefix}roles | يعرض لك كل الرانكات بالسيرفر بشكل جميل
+   『${prefix}roles | يعرض لك كل الرانكات بالسيرفر بشكل جميل
 
-   ${prefix}emojilist | يعرض لك كل الايموجيات الي بالسيرفر:cry: :smile: :joy: 
+   『${prefix}emojilist | يعرض لك كل الايموجيات الي بالسيرفر:cry: :smile: :joy: 』
 
-   ${prefix}say | يكرر الكلام الي تكتبو:sparkles: 
+   『${prefix}say | يكرر الكلام الي تكتبو:sparkles: 』
 
-   ${prefix}image | صورة السيرفر:bust_in_silhouette: 
+   『${prefix}image | صورة السيرفر:bust_in_silhouette: 』
 
-   ${prefix}members | يعرض لك عدد كل حالات الاشخاص وعدد البوتات وعدد الاشخاص:selfie: 
+   『${prefix}members | يعرض لك عدد كل حالات الاشخاص وعدد البوتات وعدد الاشخاص:selfie: 』
 
-   ${prefix}profile | ليعرض البرفايل حقك 
+   『${prefix}profile | ليعرض البرفايل حقك 』
 
-   ${prefix}bans | عدد الاشخاص المبندة :no_entry: 
+   『${prefix}bans | عدد الاشخاص المبندة :no_entry: 』
 
-${prefix}avatar | صورتك او صورة الي تمنشنو:bust_in_silhouette:
+   『${prefix}avatar | صورتك او صورة الي تمنشنو:bust_in_silhouette:』
 
-   ${prefix}embed | يكرر الي تقولو بشكل حلو:small_blue_diamond: 
+   『${prefix}embed | يكرر الي تقولو بشكل حلو:small_blue_diamond: 』
 
-  ${prefix}emoji <any things> | لتحويل اي كلمه تقولها الي ايموجي:small_orange_diamond: 
+   『${prefix}emoji <any things> | لتحويل اي كلمه تقولها الي ايموجي:small_orange_diamond: 』
 
-   ${prefix}support | سيرفر الدعم:wrench:  :envelope_with_arrow: 
-
-   ${prefix}contact | ارسال اقتراح او لمراسلة صاحب البوت
+   『${prefix}support | سيرفر الدعم:wrench:  :envelope_with_arrow: 』
    
   ===============================================
             :fire:  اوامر ادارية :fire:          

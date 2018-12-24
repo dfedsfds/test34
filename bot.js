@@ -28,33 +28,22 @@ const sql = require("sqlite");
  
 
 
-client.on('message', message => {
-    if (message.content === "$help") {
-    let embed = new Discord.RichEmbed()
-  .setAuthor(message.author.username)
-  .setFooter(`© SHYBOY_05 ™.`, 'https://images-ext-2.discordapp.net/external/X9SanEG0s7Dtv3krTgy-kod_fj6JRVJ2AG4JryCiiz0/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/375761288518828042/fffa31c797e88cf059dd6db424ff456a.png?width=80&height=80')
-  .setColor("#000000")
-  .addField("Done | تــــم" , ":envelope: | :sleuth_or_spy::skin-tone-3:شيك علي في الخاص")
-  
-  
-  
-  message.channel.sendEmbed(embed);
-  }
-  });
+c
   
   
   
   
-  
-  
-  
-   client.on("message", message => {
-    if (message.content === "$help") {
+  lient.on("message", message => {
+    if (message.content === (prefix + "help")) {
      const embed = new Discord.RichEmbed() 
-         .setColor("#00FF00")
-         .setDescription(`**❓❔❗️❕وش مميزات الب❗️❕❓❔**
+         .setColor("#580e6b")
+         .setThumbnail(message.author.avatarURL)
+         .setDescription(`
+  
+  
+ **❓❔❗️❕وش مميزات البوت❗️❕❓❔**
 =====================================
-		 :fire:  اوامر عامة :fire:  
+   :fire:  اوامر عامة :fire:  
 =====================================			
 	
    ${prefix}allbots | لعرض جميع البوتات الي بالسيرفر :robot: 
@@ -206,10 +195,20 @@ ${prefix}avatar | صورتك او صورة الي تمنشنو:bust_in_silhouett
    ${prefix}queue | لمعرفة قآئمة التشغيل   
    
      ======:blossom:نــتــمــنــآ لــكــم آســتــمـــتــآع :blossom:======  `)
+    `)
    message.author.sendEmbed(embed)
    
    }
-   });
+   });  
+client.on('message', message => {
+     if (message.content === (prefix + "help")) {
+     let embed = new Discord.RichEmbed()
+  .setAuthor(message.author.username)
+  .setColor("#8650a7")
+  .addField("Done" , " تــــم ارســالك في الخــاص")
+  message.channel.sendEmbed(embed);
+    }
+});
    
    
    

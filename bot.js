@@ -205,9 +205,7 @@ ${prefix}avatar | صورتك او صورة الي تمنشنو:bust_in_silhouett
 
    ${prefix}queue | لمعرفة قآئمة التشغيل   
    
-     ======:blossom:نــتــمــنــآ لــكــم آســتــمـــتــآع :blossom:======  `   
-   
-   **`)
+     ======:blossom:نــتــمــنــآ لــكــم آســتــمـــتــآع :blossom:======  `)
    message.author.sendEmbed(embed)
    
    }
